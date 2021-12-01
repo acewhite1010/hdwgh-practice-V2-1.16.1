@@ -1,5 +1,5 @@
 # HDWGH Practice Map V2 1.16.1
-fyroah's hdwgh practice map remade [link](https://www.mediafire.com/file/r94d6zxspfi5fpm/HDWGH_Practice.zip/file)
+fyroah's hdwgh practice map remade [v1 map link](https://www.mediafire.com/file/r94d6zxspfi5fpm/HDWGH_Practice.zip/file)
 ## map v2 01/12/2021
   initial release of the remade map.
   - features:
