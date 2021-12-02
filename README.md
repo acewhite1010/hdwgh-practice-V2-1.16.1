@@ -7,7 +7,7 @@ how to get the map? go to the [releases tab](https://github.com/acewhite1010/hdw
   second release of the remade map.
   - features:
     - fixed a me-being-dumb bug for putting the v1 map inside the zip file. sorry friends.
-    - fixed a bug on: resetting in the end preset does not kill items
+    - fixed a bug on: resetting in the end preset (aka mathbook's preset) does not kill items
     - fixed a bug on: waterlogged blocks remain waterlogged in the overworld presets
     - found a bug on: lighting problems in the overworld preset practices. i'm working on a way to solve it. (chuck some suggestion in if you have some :D )
     - added credits. thanks for fyroah for making the v1 map, and quidvio for pinging me about problems at 1am in the night xD
