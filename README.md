@@ -11,6 +11,7 @@ how to get the map? click on the "HDWGH Practice Map" on top, and download it. v
     - fixed a bug on: waterlogged blocks remain waterlogged in the overworld presets
     - found a bug on: lighting problems in the overworld preset practices. i'm working on a way to solve it. (chuck some suggestion in if you have some :D )
     - added credits. thanks for fyroah for making the v1 map, and quidvio for pinging me about problems at 1am in the night xD
+  - a lil side note: i'm learning how to use github. if i'm dumb, apologies. (kek actually send help)
 
 ## map v2 01/12/2021
   initial release of the remade map.
