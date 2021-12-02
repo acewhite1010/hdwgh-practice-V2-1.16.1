@@ -1,7 +1,7 @@
 # HDWGH Practice Map V2 1.16.1
 fyroah's hdwgh practice map remade [v1 map link](https://www.mediafire.com/file/r94d6zxspfi5fpm/HDWGH_Practice.zip/file)
 
-how to get the map? click on the "HDWGH Practice Map" on top, and download it. voila!
+how to get the map? go to the [releases tab](https://github.com/acewhite1010/hdwgh-practice-v2-1.16.1/releases/tag/v2.1), and download it. voila!
 
 ## map v2.1 02/12/2021
   second release of the remade map.
