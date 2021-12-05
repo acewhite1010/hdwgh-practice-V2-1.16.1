@@ -1,7 +1,18 @@
 # HDWGH Practice Map V2 1.16.1
 fyroah's hdwgh practice map remade [v1 map link](https://www.mediafire.com/file/r94d6zxspfi5fpm/HDWGH_Practice.zip/file)
 
-how to get the map? go to the [releases tab](https://github.com/acewhite1010/hdwgh-practice-v2-1.16.1/releases/tag/v2.1), and download it. voila!
+how to get the map? go to the [releases tab](https://github.com/acewhite1010/hdwgh-practice-v2-1.16.1/releases), and download it. voila!
+
+## map v2.2 05/12/2021
+  third release of the remade map.
+  - features:
+    - changed and made the shulker boxes more obvious.
+    - fixed quidvio's and odogster's preset.
+    - for full practices, preset items are now fit into a shulker box in the practice site.
+    - added a note: the reason a water bucket is included, is because of a bug relating to structure saving. remember when you see a flooded taiga fisherman's house? that's what i'm talking about: [waterlogged blocks spread](https://bugs.mojang.com/browse/MC-127644).
+    - bad omen, hero of the village and mining fatigue are all now toggled from clicking chat.
+    - added an item-toggled resetting system, although clicking through chat is still possible. clicking the thing in chat with blindness is difficult, i know.
+  - people are having issues opening the map with carpet mod; and i have no idea how to fix it. just a sidenote.
 
 ## map v2.1 02/12/2021
   second release of the remade map.
