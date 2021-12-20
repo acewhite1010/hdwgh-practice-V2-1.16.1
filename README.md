@@ -4,7 +4,7 @@ fyroah's hdwgh practice map remade [v1 map link](https://www.mediafire.com/file/
 how to get the map? go to the [releases tab](https://github.com/acewhite1010/hdwgh-practice-v2-1.16.1/releases), and download it. voila!
 
 ## map v2.2.1 05/12/2021
-  forth release of the remade map.
+  fourth release of the remade map.
   - fixes:
     - fire spreading in map is turned off
     - fixed beacon on/off toggling. now the preset edit space's beacon won't effect the practice space's beacon.
