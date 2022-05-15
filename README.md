@@ -3,6 +3,17 @@ fyroah's hdwgh practice map remade [v1 map link](https://www.mediafire.com/file/
 
 how to get the map? go to the [releases tab](https://github.com/acewhite1010/hdwgh-practice-v2-1.16.1/releases), and download it. voila!
 
+## map v2.3.1 15/5/2022
+  fifth release of the remade map.
+  - features:
+    - replaced outdated design by odogster and replaced with t_wagz's latest setup design "ChaCha"
+    - added options for 12-bottle (9-bottle brewing) and 27-bottle (9-bottle x3) for brewing simulation
+    - tweaked item count for the full simulation practice.
+  - fixes:
+    - should fix the attempt counter problem. if the problem still exists, probably it's a video card issue. previous version link [here](https://workupload.com/file/dddkBMS92C6)
+    - minimalist's setup is previously scuffed; now it's cleaner and stick more to fyroah's original demo video.
+    - i need feedback on the 27-bottle brewing simulation, as i have never done 27 bottles. are the ingredients given correctly? what's too much and what can be better? (also i might make separate inventories for both setups)
+
 ## map v2.2.1 05/12/2021
   fourth release of the remade map.
   - fixes:
