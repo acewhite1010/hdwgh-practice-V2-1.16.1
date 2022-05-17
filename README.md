@@ -3,6 +3,11 @@ fyroah's hdwgh practice map remade [v1 map link](https://www.mediafire.com/file/
 
 how to get the map? go to the [releases tab](https://github.com/acewhite1010/hdwgh-practice-v2-1.16.1/releases), and download it. voila!
 
+## map v2.3.2 17/5/2022
+  sixth release of the remade map.
+    - minor fixes:
+      - minimalist's setup is tweaked better, but the beacon doesn't give the effects. now it's patched and will work as normal.
+
 ## map v2.3.1 15/5/2022
   fifth release of the remade map.
   - features:
