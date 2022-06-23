@@ -3,6 +3,13 @@ fyroah's hdwgh practice map remade [v1 map link](https://www.mediafire.com/file/
 
 how to get the map? go to the [releases tab](https://github.com/acewhite1010/hdwgh-practice-v2-1.16.1/releases), and download it. voila!
 
+## map v2.4 23/6/2022
+  seventh release of the remade map.
+    - minor fixes:
+      - chacha's setup player hole is now one block deeper as it should. thanks rowl
+      - notorious custom setup issue reason: it's an [issue](https://bugs.mojang.com/browse/MC-105595) relating to security.
+      - for custom setups, current patch is very scuffed but still works. if you want a better one specifically for this, the v1 map works.
+
 ## map v2.3.2 17/5/2022
   sixth release of the remade map.
     - minor fixes:
