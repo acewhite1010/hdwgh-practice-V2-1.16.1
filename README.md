@@ -1,4 +1,4 @@
-# HDWGH Practice Map V2 1.16.1
+# HDWGH Practice Map V2
 fyroah's hdwgh practice map remade [v1 map link](https://www.mediafire.com/file/r94d6zxspfi5fpm/HDWGH_Practice.zip/file)
 
 extra: custom world practice hotbar [link](https://cdn.discordapp.com/attachments/835898104543707206/961455309874933830/hotbar.nbt)
