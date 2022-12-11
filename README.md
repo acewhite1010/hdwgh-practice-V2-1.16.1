@@ -5,7 +5,7 @@ extra: custom world practice hotbar [link](https://cdn.discordapp.com/attachment
 
 how to get the map? go to the [releases tab](https://github.com/acewhite1010/hdwgh-practice-v2-1.16.1/releases), and download it.
 
-beta-testing credits: @Quidvio , @7rowl , watchmaker
+beta-testing credits: @Quidvio, @7rowl, watchmaker
 
 ## map v2.5 11/12/2022
   ==REPO LINK CHANGED, HERE'S THE [LATEST](https://github.com/acewhite1010/hdwgh-practice-v2)==
