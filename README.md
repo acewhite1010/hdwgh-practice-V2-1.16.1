@@ -5,6 +5,8 @@ extra: custom world practice hotbar [link](https://cdn.discordapp.com/attachment
 
 how to get the map? go to the [releases tab](https://github.com/acewhite1010/hdwgh-practice-v2-1.16.1/releases), and download it.
 
+beta-testing credits: @Quidvio , @7rowl , watchmaker
+
 ## map v2.5 11/12/2022
   ==REPO LINK CHANGED, HERE'S THE [LATEST](https://github.com/acewhite1010/hdwgh-practice-v2)==
   
@@ -26,7 +28,7 @@ how to get the map? go to the [releases tab](https://github.com/acewhite1010/hdw
 ## map v2.4 23/6/2022
   seventh release of the remade map.
   - minor fixes:
-    - chacha's setup player hole is now one block deeper as it should. thanks rowl
+    - chacha's setup player hole is now one block deeper as it should.
     - notorious custom setup issue reason: it's an [issue](https://bugs.mojang.com/browse/MC-105595) relating to security.
     - for custom setups, current patch is very scuffed but still works. if you want a better one specifically for this, the v1 map works.
 
