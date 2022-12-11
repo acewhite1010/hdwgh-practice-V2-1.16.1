@@ -3,7 +3,25 @@ fyroah's hdwgh practice map remade [v1 map link](https://www.mediafire.com/file/
 
 extra: custom world practice hotbar [link](https://cdn.discordapp.com/attachments/835898104543707206/961455309874933830/hotbar.nbt)
 
-how to get the map? go to the [releases tab](https://github.com/acewhite1010/hdwgh-practice-v2-1.16.1/releases), and download it. voila!
+how to get the map? go to the [releases tab](https://github.com/acewhite1010/hdwgh-practice-v2-1.16.1/releases), and download it.
+
+## map v2.5 11/12/2022
+  ==REPO LINK CHANGED, HERE'S THE [LATEST](https://github.com/acewhite1010/hdwgh-practice-v2)==
+  
+  eighth release(s) of the remade map.
+  - additions:
+    - an icon for the map
+    - 1.19 version of the map
+  - minor fixes:
+    - custom setup issue fix is more intuitive and 1^10n % less scuffed.
+    - chacha setup: shulker boat is back to original position, hence a water bucket is by default, inserted in the inventory box. (preventing bullets, and avoiding 1.19 problems)
+    - minor tweaks to custom setups' terrain.
+    - armor is now automatically applied to the player when playing both practice modes.
+    - cleaned up some code and functions.
+  - the 1.19 map:
+    - full practice lets you customize where you'll be "spawning" the warden. In real runs, you're expected to transport the warden through the portal; hence recommended to simulate it by building a portal frame, and then spawning the warden in it. [Demonstration from Elysaku's 1.19 AA Run](https://www.twitch.tv/videos/1520805535/?t=06h11m30s)
+    - mathbook's end setup is removed, as end HDWGH is probably not as doable as in pre1.19 versions. all the other setups are tweaked and adapts to the edition of the warden in the setup.
+- planning: a 1.12 version map, beacon speedbuilding mode.
 
 ## map v2.4 23/6/2022
   seventh release of the remade map.
